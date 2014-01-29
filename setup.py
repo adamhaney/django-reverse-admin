@@ -20,8 +20,8 @@ def read(fname):
         return DESCRIPTION
 
 setup(
-    name="ondelta",
-    version="0.2.2",
+    name="django-reverse-admin",
+    version="0.1.0",
     author="Adam Haney",
     author_email="adam.haney@campusbellhops.com",
     description=DESCRIPTION,
